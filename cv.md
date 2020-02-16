@@ -1,5 +1,5 @@
   
-# CURRICULUM VITAE
+CURRICULUM VITAE
 
    1.Dmitry Yakorev
 
