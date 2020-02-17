@@ -7,16 +7,19 @@ body {
     margin: 0;
     font-family: "Helvetica", "Arial", sans-serif;
     font-size: 1.6rem;
+    background-color: lightgray;
 }
 .wrapper{
 
     width: 1024px;
+    text-align: center;
 }
 .header__image{
     width: 300px;
 }
 .header{
     display: flex;
+    background-color: lightcyan;
 }
 
 .header__text{
