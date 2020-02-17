@@ -12,3 +12,16 @@ body {
 
     width: 1024px;
 }
+.header__image{
+    width: 300px;
+}
+.header{
+    display: flex;
+}
+
+.header__text{
+    width: 300px;
+}
+*{
+    margin: 0;
+}
