@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    margin: 0;
+    
     font-family: "Helvetica", "Arial", sans-serif;
     font-size: 1.6rem;
     background-color: lightgray;
@@ -12,13 +12,19 @@ body {
 .wrapper{
 
     width: 1024px;
-    text-align: center;
+    margin: 0 auto;
+    justify-content: space-around;
+
+}
+.main{
+    justify-content: space-around;
 }
 .header__image{
     width: 300px;
 }
 .header{
     display: flex;
+    justify-content: space-around;
     background-color: lightcyan;
 }
 
