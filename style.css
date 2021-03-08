@@ -53,17 +53,17 @@ body {
     align-items: center;
   }
   
-  .text {
-    margin-right: 30px;
-  }
+  
   
   .github {
-    margin-right: 20px;
+    margin-right: 180px;
     font-size: 30px;
     text-decoration: none;
     color: inherit;
   }
   
   .rsschool {
+    margin-top: 10px;
+    margin-right: 110px;
     height: 40px;
   }
