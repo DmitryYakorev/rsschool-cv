@@ -3,7 +3,7 @@ CURRICULUM VITAE
 
    1.Dmitry Yakorev 
 
-   2.*Email*: urakend@mail.ru .*Address* : Gatchina ,25 October, 75 , 125
+   2.*Email*: urakend@mail.ru .*Address* : Gatchina ,25 October, 75 , 125 
 
    3.I learn JS and do tasks on [codewars](https://www.codewars.com/users/DmitryYakorev) .I want to became a front-end developer.
    
