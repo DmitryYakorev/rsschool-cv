@@ -79,3 +79,7 @@ a {
 .code {
   background-color: #7c222211 ;
 }
+
+h3,h2 {
+  padding-left:  10%;
+}
