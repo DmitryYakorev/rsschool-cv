@@ -83,3 +83,7 @@ a {
 h3,h2 {
   padding-left:  10%;
 }
+h1 {
+  margin: 0 auto;
+  padding-left: 30%;
+}
