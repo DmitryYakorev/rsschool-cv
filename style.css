@@ -93,3 +93,30 @@ h1 {
     width: 500px;
   }
 }*/
+.nav_plane {
+  display: flex;
+  background-color:blueviolet;
+  position: sticky;
+  
+}
+
+.nav_skills {
+  display: flex;
+}
+
+.site-navigation {
+  display: flex;
+  align-self:center ;
+  justify-content: space-around;
+  
+}
+
+.site-navigation__item {
+  justify-content: space-around;
+}
+
+.site-navigation__link {
+  display: inline-block;
+  padding: 10px;
+  justify-content: space-around;
+}
