@@ -48,8 +48,16 @@ body {
 .links {
   display: flex;
   align-items: center;
+  justify-content: space-around;
 }
-
+.rs {
+width: 100px;
+height: 50px;
+  
+}
+.date {
+  padding: 20px;
+}
 
 
 .github {
